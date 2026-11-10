@@ -72,12 +72,6 @@ uvicorn backend.main:app --reload
 
 
 
-\## Screenshots
-
-\_Add screenshots here.\_
-
-
-
 \## Limitations and safety
 
 \- Diagnosis is a suggestion, not a certified result. The app never gives pesticide doses and advises confirming with a local agriculture officer.
@@ -86,7 +80,10 @@ uvicorn backend.main:app --reload
 
 \- Needs an internet connection. Offline mode is on the roadmap.
 
+\- Screenshots
 
+![HomePage](screenshots/HomePage.png)
+![ResultPage](screenshots/ResultPage.png)
 
 \## Roadmap
 
