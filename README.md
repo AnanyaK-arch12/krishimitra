@@ -96,5 +96,10 @@ Voice questions (mic input), more crops, offline mode, weather alerts, governmen
 
 \## Team
 
-Add your team name and members here.
+Team Members 
+1.Ananya K
+2.Gayathri
+3.Chaithra S Uchil
+
+Demo video link : https://youtu.be/NBKBavWeYqc
 
